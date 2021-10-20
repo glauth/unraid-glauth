@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>GLauth_and_Plugins</Name>
-  <Repository>glauth/glauth-plugins</Repository>
+  <Repository>glauth/glauth-plugins:nightly</Repository>
   <Registry>https://hub.docker.com/repository/docker/glauth/glauth-plugins</Registry>
   <Network>bridge</Network>
   <MyIP/>
